@@ -81,11 +81,6 @@ function argv(configPath) {
 				describe: 'Default application to be used to open the HTTP URLs',
 				type: 'string'
 			},
-			disableNotifications: {
-				default: false,
-				describe: 'A flag to disable all notifications',
-				type: 'boolean'
-			},
 			disableNotificationSound: {
 				default: false,
 				describe: 'Disable notification sound',

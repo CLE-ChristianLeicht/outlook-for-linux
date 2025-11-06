@@ -22,7 +22,6 @@ Here is the list of available arguments and its usage:
 | closeAppOnCross | Close the app when clicking the close (X) cross | false |
 | config | config file location | ~/.config/outlook-for-linux/config.json |
 | defaultURLHandler | Default application to be used to open the HTTP URLs |  |
-| disableNotifications | A flag to disable all notifications | false |
 | disableNotificationSound | Disable notification sound | false |
 | disableNotificationWindowFlash | A flag indicates whether to disable window flashing when there is a notification | false |
 | help  | show the available commands | false |

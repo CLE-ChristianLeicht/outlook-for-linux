@@ -7,3 +7,6 @@ generated-sources.json
 .flatpak-builder/
 flatpak-build/
 .idea
+/.yarn/install-state.gz
+/package.tgz
+/.yarn/releases/yarn-4.10.3.cjs
